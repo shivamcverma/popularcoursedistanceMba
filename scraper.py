@@ -18,17 +18,29 @@ PCOMBA_QAD_URL = "https://www.shiksha.com/tags/mba-pgdm-tdp-422?type=discussion"
 
 def create_driver():
     options = Options()
-    options.add_argument("--disable-gpu")
+
+    # Mandatory for GitHub Actions
+    options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
-    options.add_argument("user-agent=Mozilla/5.0")
 
-    return webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
-        options=options
+    # Optional but good
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     )
 
+    # Important for Ubuntu runner
+    options.binary_location = "/usr/bin/chromium"
+
+    service = Service(ChromeDriverManager().install())
+
+    return webdriver.Chrome(
+        service=service,
+        options=options
+    )
 # ---------------- UTILITIES ----------------
 def scroll_to_bottom(driver, scroll_times=3, pause=1.5):
     for _ in range(scroll_times):
@@ -816,9 +828,10 @@ def scrape_mba_colleges():
 
 
 
-import time
+import os
 
-DATA_FILE =  "distance_mba_data.json"
+TEMP_FILE = "distance_mba_data.json"
+FINAL_FILE = "distance_mba_data.json"
 UPDATE_INTERVAL = 6 * 60 * 60  # 6 hours
 
 def auto_update_scraper():
@@ -831,9 +844,13 @@ def auto_update_scraper():
 
     print("🔄 Scraping started")
     data = scrape_mba_colleges()
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
+    with open(TEMP_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    print("✅ Data scraped & saved successfully")
+
+    # Atomic swap → replaces old file with new one safely
+    os.replace(TEMP_FILE, FINAL_FILE)
+
+    print("✅ Data scraped & saved successfully (atomic write)")
 
 if __name__ == "__main__":
 
