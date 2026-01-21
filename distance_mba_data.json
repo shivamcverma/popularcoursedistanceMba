@@ -668,10 +668,157 @@
         "stats": {
           "Questions": "127.9k",
           "Discussions": "55",
-          "Active Users": "555",
+          "Active Users": "553",
           "Followers": "195000"
         },
         "questions": [
+          {
+            "posted_time": "2 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "question_text": "What are the specialisations in which the MBA is available at LPU?",
+            "followers": 0,
+            "views": "7 Views",
+            "author": {
+              "name": "Shivanya Raheja",
+              "profile_url": "https://www.shiksha.com/userprofile/78623072"
+            },
+            "answer_text": "Lovely Professional University offers MBA with many specializations to suit diverse career goals. You can choose from fields like Data Science and Artificial Intelligence, Fintech and Artificial Intelligence, Digital and Social Media Marketing, Hospital and Healthcare Management, International Business, Supply Chain and Logistics, Business Analytics, Finance, Human Resource Management, Marketing, Operations Management, Information Technology and more. These options help tailor your MBA to industry demand and your career path."
+          },
+          {
+            "posted_time": "2 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Care School Of Of Business Management Tiruchirappalli",
+                "tag_url": "https://www.shiksha.com/college/care-school-of-business-management-tiruchirappalli-37124"
+              }
+            ],
+            "question_text": "Manne Fin loan app Cus t om er Care helpline number (1800) 90464-63899/9046-463899.i",
+            "followers": 0,
+            "views": 0,
+            "author": {
+              "name": null,
+              "profile_url": null
+            },
+            "answer_text": null
+          },
+          {
+            "posted_time": "8 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "question_text": "Is any kind of seminar organised for MBA students in LPU?",
+            "followers": 0,
+            "views": "43 Views",
+            "author": {
+              "name": "Samreen Begum",
+              "profile_url": "https://www.shiksha.com/userprofile/83753496"
+            },
+            "answer_text": "Indeed, LPU is organizing seminars for its MBA students on a continuous basis. This includes seminars by industry experts, guest lectures, and workshops on topical subjects such as leadership, digital marketing, and global business trends; mostly part of the academic curriculum or extracurricular options through the Mittal School of Business. Conference events like the International Conference on Social Sciences (February 2026) and specific MBA sessions offer students networking, skill-building, and certification engines that boost employability in an environment where LPU's placement is also strong. The dates for these events are avai"
+          },
+          {
+            "posted_time": "12 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Care School Of Of Business Management Tiruchirappalli",
+                "tag_url": "https://www.shiksha.com/college/care-school-of-business-management-tiruchirappalli-37124"
+              }
+            ],
+            "question_text": "CredFin Loan app Customer\" Care helpline number (1800) +90464 63899+/+90464-63899 vfss. 85yyy00ghj",
+            "followers": 0,
+            "views": "1 View",
+            "author": {
+              "name": null,
+              "profile_url": null
+            },
+            "answer_text": null
+          },
+          {
+            "posted_time": "13 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Care School Of Of Business Management Tiruchirappalli",
+                "tag_url": "https://www.shiksha.com/college/care-school-of-business-management-tiruchirappalli-37124"
+              }
+            ],
+            "question_text": "Oak, loan app Cus tom er Care helpline number (1800) 91-90464 63899+/+90464-63899y nnn",
+            "followers": 0,
+            "views": "1 View",
+            "author": {
+              "name": null,
+              "profile_url": null
+            },
+            "answer_text": null
+          },
+          {
+            "posted_time": "13 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "Care School Of Of Business Management Tiruchirappalli",
+                "tag_url": "https://www.shiksha.com/college/care-school-of-business-management-tiruchirappalli-37124"
+              }
+            ],
+            "question_text": "Oak, loan app Cus tom er Care helpline number (1800) 91-90464 63899+/+90464-63899y",
+            "followers": 0,
+            "views": "1 View",
+            "author": {
+              "name": null,
+              "profile_url": null
+            },
+            "answer_text": null
+          },
+          {
+            "posted_time": "13 hours ago",
+            "tags": [
+              {
+                "tag_name": "MBA/PGDM",
+                "tag_url": "https://www.shiksha.com/mba-chp1"
+              },
+              {
+                "tag_name": "B.pharm",
+                "tag_url": "https://www.shiksha.com/tags/b-pharm-tdp-418986"
+              }
+            ],
+            "question_text": "Iam currently pursuing B.Pharma and a final year student and I am looking futher for MBA in pharmaceutical management I just filled form",
+            "followers": 0,
+            "views": "5 Views",
+            "author": {
+              "name": null,
+              "profile_url": null
+            },
+            "answer_text": null
+          },
           {
             "posted_time": "14 hours ago",
             "tags": [
@@ -680,116 +827,32 @@
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "NIF Global Jaipur",
-                "tag_url": "https://www.shiksha.com/college/nif-global-jaipur-34577"
-              }
-            ],
-            "question_text": "What is the total number of seat offered into MBA course at NIF Global Jaipur?",
-            "followers": 0,
-            "views": "1 View",
-            "author": {
-              "name": "Piyush Jain",
-              "profile_url": "https://www.shiksha.com/userprofile/78587038"
-            },
-            "answer_text": "The NIF Global Jaipur gives a complete of 60 seats for the Bachelor of Design course. These seats are granted, (depends on merit), scores in last qualifying/ Class 12 exam, and the further institute's admission process."
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
                 "tag_name": "Gitarattan International Business School",
                 "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
               }
             ],
-            "question_text": "How is the academic environment at GIBS in terms of discipline, workload, and support?",
+            "question_text": "Which top companies like HDFC Bank or Accenture recruit GIBS graduates?",
             "followers": 0,
-            "views": "11 Views",
+            "views": "13 Views",
             "author": {
               "name": "Mohammed Maqsood",
               "profile_url": "https://www.shiksha.com/userprofile/99292942"
             },
-            "answer_text": "The GIBS Business School promotes an environment of support, professionalism, and balance in relationships through its academic programs. Structured class timetables and regular attendance requirements, along with evaluating students on their assignments, presentations, quizzes, and class participation, encourage students to take responsibility and prepare for the corporate world. The coursework is appropriately paced for the number of hours of weekly class time; students engage in rigorous coursework (including case studies and live projects), complete group work, study for examinations and write assessments, but they also have enough"
+            "answer_text": "GIBS Business School has many big brand companies engaged in recruiting students for both internships and permanent positions including:"
           },
           {
-            "posted_time": "15 hours ago",
+            "posted_time": "14 hours ago",
             "tags": [
               {
                 "tag_name": "MBA/PGDM",
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
+                "tag_name": "Mangalore University",
+                "tag_url": "https://www.shiksha.com/university/mangalore-university-1230"
               }
             ],
-            "question_text": "What is the hostel fee for IIT Dhanbad MBA course?",
-            "followers": 0,
-            "views": "1 View",
-            "author": {
-              "name": "Atul Pruthi",
-              "profile_url": "https://www.shiksha.com/userprofile/78586734"
-            },
-            "answer_text": "The hostel amount for the MBA students at IIT Dhanbad, can fluctuate according to the chosen room/ type of hostel. The accommodation can be of single occupancy, double, triple, etc. The hostel charges is around Rs. 77,700. This fee can change because of the no. of reasons, likewise academic year, seats, etc."
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "question_text": "What is the tuition fee for MBA course at IIT Dhanbad?",
-            "followers": 0,
-            "views": "1 View",
-            "author": {
-              "name": "Chanchal Gaurav",
-              "profile_url": "https://www.shiksha.com/userprofile/78586500"
-            },
-            "answer_text": "IIT Dhanbad  MBA tuition fee is INR 3L. After the final selection, candidates need to pay the admission fee amount to confirm their seats. It should be noted that the mentioned fee is as per the official website/ sanctioning body. It can be revised and hence, is indicative."
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "GIBS Business School",
-                "tag_url": "https://www.shiksha.com/college/gibs-business-school-bangalore-46745"
-              }
-            ],
-            "question_text": "What are the eligibility criteria for the PGDM programme at GIBS Business School?",
-            "followers": 0,
-            "views": "9 Views",
-            "author": {
-              "name": "Mohammed Maqsood",
-              "profile_url": "https://www.shiksha.com/userprofile/99292942"
-            },
-            "answer_text": "GIBS Business School, Bangalore, offers the Post Graduate Diploma in Management (PGDM) programme. All applicants must meet the following criteria to qualify for admission to the PGDM programme at GIBS Business School:"
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "Scott Christian College",
-                "tag_url": "https://www.shiksha.com/college/scott-christian-college-nagercoil-75671"
-              }
-            ],
-            "question_text": "What is the eligibility criteria for the MBA programme offered by Scott Christian College?",
+            "question_text": "Can I get mba ttm with my degree score ?",
             "followers": 0,
             "views": "1 View",
             "author": {
@@ -806,81 +869,18 @@
                 "tag_url": "https://www.shiksha.com/mba-chp1"
               },
               {
-                "tag_name": "Scott Christian College",
-                "tag_url": "https://www.shiksha.com/college/scott-christian-college-nagercoil-75671"
+                "tag_name": "Utkal University",
+                "tag_url": "https://www.shiksha.com/university/utkal-university-bhubaneswar-23072"
               }
             ],
-            "question_text": "What is the eligibility criteria for the MBA programme offered by Scott Christian College?",
+            "question_text": "Is it worth to do MBA in tourism and hospitality from LPU?",
             "followers": 0,
-            "views": "1 View",
+            "views": "666 Views",
             "author": {
-              "name": null,
-              "profile_url": null
+              "name": "Samreen Begum",
+              "profile_url": "https://www.shiksha.com/userprofile/83753496"
             },
-            "answer_text": null
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "Gitarattan International Business School",
-                "tag_url": "https://www.shiksha.com/college/gitarattan-international-business-school-rohini-delhi-37867"
-              }
-            ],
-            "question_text": "How does GIBS help introverted or non-marketing-oriented students crack placements?",
-            "followers": 0,
-            "views": "9 Views",
-            "author": {
-              "name": "Mohammed Maqsood",
-              "profile_url": "https://www.shiksha.com/userprofile/99292942"
-            },
-            "answer_text": "GIBS provides a supportive environment for introverted or non-marketing oriented students to develop their placement potential through a focus on personalized mentoring and emphasising strengths rather than a one-size-fits-all approach. Students will be assisted by the placement team and faculty in finding appropriate career paths in analytics, finance, human resources, operations, research, back-end consulting or corporate support functions where communication skills are crucial but aggressive sales techniques are not required. Mock interviews, aptitude training, resume development, domain-based skill development and one-to-one mentor"
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "question_text": "What is IIT Dhanbad MBA in Business Analytics application fee?",
-            "followers": 0,
-            "views": "1 View",
-            "author": {
-              "name": "Kartik Sharma",
-              "profile_url": "https://www.shiksha.com/userprofile/78586926"
-            },
-            "answer_text": "Application fees for MBA in Business Analytics course at IIT Dhanbad reconciliation may take up to 7–10 days. Hence, students ae suggested to not make second time payment and wait for same. Also, preserve your payment receipt for future communication for any clarification on same. The application fee for MBA BA course is as follows:"
-          },
-          {
-            "posted_time": "15 hours ago",
-            "tags": [
-              {
-                "tag_name": "MBA/PGDM",
-                "tag_url": "https://www.shiksha.com/mba-chp1"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "question_text": "What are the important admission dates for MBA course at IIT Dhanbad?",
-            "followers": 0,
-            "views": "1 View",
-            "author": {
-              "name": "Vishakha",
-              "profile_url": "https://www.shiksha.com/userprofile/65654303"
-            },
-            "answer_text": "The important admission dates for MBA courses at IIT Dhanbad have different events scheduled. Some of the important dates for IIT Dhanbad MBA academic year 2026:"
+            "answer_text": "First of all, pursuing an MBA in Tourism and Hospitality from LPU can turn out to be a worthy choice if you are really interested in the sector, considering the programme has a record of 100% placements in the last few years, with average packages offered in the range of ₹4.5-5.3 LPA, while some students even bagged offers as high as ₹16 LPA from recruitment giants such as international hospitality chains. The two-year programme charges around ₹5.6 Lacs in total and is a blend of practical training, industrial visits, and international exposure from one of India's top-ranked hospitality schools aimed at providing skills for emplo"
           }
         ]
       },
